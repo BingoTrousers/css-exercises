@@ -1,1 +1,19 @@
-/* Add CSS Styling */
+.odds {
+  background-color: #ffb6c1;
+  font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+#eleTwo {
+  color: #0000ff;
+  font-size: 36px;
+}
+
+.eleThree {
+  font-size: 24px;
+}
+
+#eleFour {
+  background-color: #46d346;
+  font-size: 24px;
+  font-weight: bold;
+}

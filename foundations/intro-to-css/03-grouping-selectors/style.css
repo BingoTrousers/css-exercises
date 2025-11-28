@@ -1,1 +1,13 @@
-/* Add CSS Styling */
+.leftBox {
+  background-color: black;
+  color: white;
+}
+
+.rightBox {
+  background-color: yellow;
+}
+
+.shared {
+  font-family: "Helvetica", "Times New Roman", monospace;
+  font-size: 28px;
+}
